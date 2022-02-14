@@ -1,5 +1,5 @@
-### Hi there 👋, I am Ashik Uz Zaman
-#### Web Developer
+## I am Ashik Uz Zaman
+### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/1444126192114626564/1644771196/1080x360)
 
 I am Ashik Uz Zaman. I have completed graduate at the Daffodil International University Department of CSE. My goal is to build a successful career.
