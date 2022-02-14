@@ -1,4 +1,4 @@
-## I am Ashik Uz Zaman
+## Ashik Uz Zaman
 ### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/1444126192114626564/1644771196/1080x360)
 
